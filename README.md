@@ -7,9 +7,12 @@
 
 <img src='./img/workingckt.jpg'>
 
-## OLED Scrren Display :
+## OLED Scrren Display  :
 <img src='./img/dhtoledscreen.jpg'>
+
 ## Think Speak Console :
+
+<B> After 17 Reading
 
 <img src='./img/thinkspeakconsole.jpg'>
 
