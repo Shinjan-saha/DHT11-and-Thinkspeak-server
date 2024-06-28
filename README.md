@@ -14,7 +14,7 @@
 
 <B> After 17 Reading
 <B> Field 1 is Temperature 
-<B> Field 2 is Temperature 
+<B> Field 2 is Humidity 
 
 <img src='./img/thinkspeakconsole.jpg'>
 
