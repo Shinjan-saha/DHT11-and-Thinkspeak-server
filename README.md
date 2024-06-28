@@ -7,12 +7,14 @@
 
 <img src='./img/workingckt.jpg'>
 
-## OLED Scrren Display  :
+## OLED Screen Display  :
 <img src='./img/dhtoledscreen.jpg'>
 
 ## Think Speak Console :
 
 <B> After 17 Reading
+<B> Field 1 is Temperature 
+<B> Field 2 is Temperature 
 
 <img src='./img/thinkspeakconsole.jpg'>
 
