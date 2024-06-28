@@ -1,4 +1,4 @@
-# LM 35 ThinkSpeak Server Temperature Reading
+# DHT11 ThinkSpeak Server Temperature & Humidity Reading
 
 
 ### Here by Using NodeMCUESP8266 & DHT11 Tempearature & Humidity based Sensor &  Cloud Service Like ThinkSpeak we can Read the Tempearture & humidity Collected by the DHT 11  & show it in the ThinkSpeak Console.
